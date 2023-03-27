@@ -44,10 +44,16 @@ The CEO, in particular, has given a ballpark of the target lead conversion rate 
 11.Precision- Recall
 
 ## Details of files given
-1.Lead Score Assignment ML Final.ipynb : The python file showing coding and data analysis
+1.The python file showing coding and data analysis
 
-2.Assignment Subjective Questions.pdf : Some subjective questions answered
+2.Some subjective questions answered
 
-3.Lead Score ML Assignment ppt.pdf : Final Presentation
+3.Presentation
 
-4.Summary_final.pdf : Summary on what's done in the entire py file
+4.Summary
+
+5.Printout of the code run, showing results
+
+6.Leads CSV File (Data)
+
+7.Leads Data Disctionary (Explaining all the points.
